@@ -152,15 +152,7 @@ select {
     color: white;
     display: block;
   }
-  /* get rid of button style */
-  .header__nav button {
-    /* border: none;
-    background-color: transparent;
-    width: 0;
-    color: inherit;
-    font: inherit;
-    height: inherit; */
-  }
+
   .landing .container {
     min-width: 770px;
   }
