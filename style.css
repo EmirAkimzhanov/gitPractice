@@ -152,7 +152,6 @@ select {
     color: white;
     display: block;
   }
-
   .landing .container {
     min-width: 770px;
   }
@@ -201,7 +200,7 @@ select {
   }
   .holiday-finder__footer {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
   }
   .holiday-finder__footer button {
     width: 220px;
